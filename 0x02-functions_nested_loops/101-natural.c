@@ -1,10 +1,10 @@
 #include <stdio.h>
 
- /**
-  * main - Lists all the natural numbers
-  *
-  * Return: Always 0.
-  */
+/**
+ * main - List of natural numbers of the multiples of 3 and 5
+ *
+ * Retrun: Always 0 (Success)
+ */
 int main(void)
 {
 	int i, sum = 0;
