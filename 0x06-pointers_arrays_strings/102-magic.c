@@ -1,9 +1,5 @@
 #include <stdio.h>
 
-/**
- * main - Adding one line of code, so that the program prints a[2] = 98
- */
-
 int main(void)
 {
 	int n;
