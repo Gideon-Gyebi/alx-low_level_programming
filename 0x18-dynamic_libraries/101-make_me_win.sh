@@ -1,2 +1,2 @@
 #!/bin/bash
-LD_PRELOAD=/tmp/libsyringe.so
+export LD_PRELOAD=/tmp/libsyringe.so
